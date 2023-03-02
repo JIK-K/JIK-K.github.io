@@ -21,15 +21,13 @@
 title: JIKJIK
 email: dnswlrsla@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  잠만보의 공부기록
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /assets/images/favicon.ico
 
-google_analytics:
-  tracking_id: G-98WJLKC6G8
+# Google analytics
+google_analytics: G-M25RW8HLHS
 
 twitter_username: jekyllrb
 github_username: JIK-K
