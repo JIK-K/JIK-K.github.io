@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /assets/images/favicon.ico
 
 # Google analytics
-google_analytics: G-M25RW8HLHS
+google_analytics: UA-258990011-1
 
 twitter_username: jekyllrb
 github_username: JIK-K
