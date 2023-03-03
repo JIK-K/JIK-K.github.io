@@ -26,6 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /assets/images/favicon.ico
 
+yat:
+  date_format: "%b %d, %Y"
+
 # Google analytics
 google_analytics: UA-258990011-1
 
