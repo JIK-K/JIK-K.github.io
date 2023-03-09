@@ -1,0 +1,33 @@
+/* cdn import */
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap");
+
+#name {
+  font-family: "Dongle", sans-serif;
+}
+
+#hits {
+  width: auto;
+  height: auto;
+  margin-top: 5px;
+}
+.author__urls {
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+a:hover {
+  color: gray;
+}
+
+li {
+  margin-top: 5px;
+}
