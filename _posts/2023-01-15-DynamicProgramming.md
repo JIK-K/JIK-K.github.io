@@ -89,7 +89,7 @@ int fibonacci(int n){
 ```
 
 <br/>
-하지만 Memoization을 사용한다면 한번 계산한 부분은 다시 계산하지 않기때문에 훨씬 빠르게 작동한다. (<span style = "color:#FF8C00">시간 복잡도 : O(<sup>N</sup>)</span>)
+하지만 Memoization을 사용한다면 한번 계산한 부분은 다시 계산하지 않기때문에 훨씬 빠르게 작동한다. (<span style = "color:#FF8C00">시간 복잡도 : O(f(N))</span>)
 
 ```java
 static int[] DP = new int[N]; //배열의 크기는 정의하기 나름이다.

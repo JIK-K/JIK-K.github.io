@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "알고리즘 - Insertion Sort(삽입정렬)"
+title: "알고리즘 - Insertion Sort(삽입 정렬)"
 categories: Algorithm
 tags: [Insertion Sort, Algorithm, 삽입 정렬, 알고리즘]
 ---
