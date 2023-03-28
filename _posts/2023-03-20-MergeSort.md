@@ -41,7 +41,7 @@ MergeSort의 시간복잡도는 분할정복(Divide and Conquer) 방법을 사�
 - <span style = "color:Green">3.</span> : 이후 비교한 원소를 리스트에서 제거한다
 - <span style = "color:Green">4.</span> : 1 ~ 3 과정을 반복하면서 리스트가 모두 정렬될때 까지 한다.
 
-![Counting-Sort](/assets/images/MergeSort.gif)
+![Merge-Sort](/assets/images/MergeSort.gif)
 <small>출처:<https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Merge-sort-example-300px.gif/220px-Merge-sort-example-300px.gif></small>
 
 <hr/>

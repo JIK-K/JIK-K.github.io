@@ -25,7 +25,7 @@ Quick Sort의 평균 시간 복잡도는 <span style="color:Pink">O(nlogn)</span
 
 <hr/>
 
-## Merge Sort 과정
+## Quick Sort 과정
 
 - <span style = "color:Green">1. Pivot(선택) : </span> 배열의 첫 번째 원소를 피봇(pivot)으로 선택한다
 - <span style = "color:Green">2. Partition 수행 : </span> 피봇을 기준으로 두개의 부분 배열로 나눈다. 피봇보다 작은 값은 피봇의 왼쪽에 큰값은 오른쪽으로 이동하며, 모든 원소가 왼쪽, 오른쪽 배열중 하나에 위치할 때까지 반복한다.
@@ -36,7 +36,7 @@ Quick Sort의 평균 시간 복잡도는 <span style="color:Pink">O(nlogn)</span
 
 <hr/>
 
-## Merge Sort 구현
+## Quick Sort 구현
 
 ```java
 class QuickSort
