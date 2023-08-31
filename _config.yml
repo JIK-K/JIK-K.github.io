@@ -30,7 +30,8 @@ yat:
   date_format: "%b %d, %Y"
 
 # Google analytics
-google_analytics: UA-258990011-1
+# google_analytics: UA-258990011-1
+google_analytics: G-M25RW8HLHS
 
 twitter_username: jekyllrb
 github_username: JIK-K
