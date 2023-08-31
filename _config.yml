@@ -32,6 +32,7 @@ yat:
 # Google analytics
 # google_analytics: UA-258990011-1
 google_analytics: G-M25RW8HLHS
+# enableDNT: "false"
 
 twitter_username: jekyllrb
 github_username: JIK-K
