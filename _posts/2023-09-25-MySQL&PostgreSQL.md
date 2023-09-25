@@ -15,7 +15,7 @@ tags: [DataBase, Mysql, PostgreSQL, DBMS, RDBMS]
 - 테이블 형식의 데이터를 조작할 수 있는 관계 연산자를 제공한다.
 
 <div style = " font-weight:bold">
-<span style = "font-weight:bold;font-size:20px;color:#CC8C00">MySQL 특징</span>
+<span style = "font-weight:bold;font-size:20px;color:#CC8C00">MySQL 특징</span><br/>
 
 1. Performance - 대용량 데이터를 효율적으로 처리하도록 설계 되었으며 많은 동시 연결을 처리 할 수있다(인덱싱, 캐싱, 저장프로시저)<br/>
 
@@ -34,7 +34,7 @@ tags: [DataBase, Mysql, PostgreSQL, DBMS, RDBMS]
 <span style = "color:#FF8C00">PostgreSQL</span>은 오픈 소스의 <span style = "color:#FF8C00">객체-관계형 데이터베이스 시스템(ORDBMS)</span>이며, 연산자, 복합 자료형, 집계 함수, 자료형 변환자, 확장 기능 등 다양한 데이터베이스 객체를 사용자가 임의로 만들 수 있는 기능을 제공함으로써 마치 하나의 새로운 프로그래밍 언어처럼 기능을 손쉽게 구현할 수 있다.
 
 <div style = " font-weight:bold">
-<span style = "font-weight:bold;font-size:20px;color:#CC8C00">PostgreSQL 특징</span>
+<span style = "font-weight:bold;font-size:20px;color:#CC8C00">PostgreSQL 특징</span><br/>
 
 1. Reliability - 트랜젝션 ACID에 대한 구현으로 신뢰 가능(로우, 레벨, 라킹)<br/>
 
