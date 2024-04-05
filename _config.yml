@@ -21,7 +21,7 @@
 title: JIKJIK
 email: dnswlrsla@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  잠만보의 공부기록
+  Manly Repository
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /assets/images/favicon.ico
