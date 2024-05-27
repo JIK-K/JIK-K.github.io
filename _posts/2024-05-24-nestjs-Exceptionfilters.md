@@ -83,7 +83,7 @@ export class HttpExceptionFilter implements ExceptionFilter {
 @Catch 데코레이터에서 filter가 HttpException에 해당되는 예외가 있는지 찾으며, 파라미터가 여러개가 될수 있다.
 ctx는 실행환경을 의미하고, exception.getStatus() 메서드를 통해 예외에 해당하는 http 상태코드를 받을 수있다.
 
-### Binding Filters
+## Binding Filters
 
 이후 작성한 exception filter를 적용할때는 @UseFilters() 데코레이터를 사용하면 된다.
 
