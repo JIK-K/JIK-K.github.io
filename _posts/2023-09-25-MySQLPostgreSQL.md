@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " [DB]- MySQL과 PostgreSQL 비교 분석"
+title: "[DB]- MySQL과 PostgreSQL 비교 분석"
 categories: DataBase
 tags: [DataBase, Mysql, PostgreSQL, DBMS, RDBMS]
 ---

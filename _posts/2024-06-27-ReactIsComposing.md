@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " [React]- React isComposing, 한글 두번 입력되는 버그"
+title: "[React]- React isComposing, 한글 두번 입력되는 버그"
 categories: React
 tags: [React, Typescript]
 ---

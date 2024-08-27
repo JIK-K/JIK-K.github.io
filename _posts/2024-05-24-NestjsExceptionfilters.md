@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " [NestJS]- NestJs Exception filters"
+title: "[NestJS]- NestJs Exception filters"
 categories: NestJS
 tags: [NestJS, NodeJS, Typescript, Exception filters]
 ---

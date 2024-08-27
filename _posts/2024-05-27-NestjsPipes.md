@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " [NestJS]- NestJs Pipes"
+title: "[NestJS]- NestJs Pipes"
 categories: NestJS
 tags: [NestJS, NodeJS, Typescript, Pipes]
 ---
