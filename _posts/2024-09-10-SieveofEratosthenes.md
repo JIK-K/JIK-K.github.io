@@ -2,6 +2,7 @@
 layout: post
 title: "알고리즘- 에라토스테네스의 체(Sieve of Eratosthenes)"
 categories: Algorithm
+use_math: true
 tags: [Algorithm, 알고리즘]
 ---
 
