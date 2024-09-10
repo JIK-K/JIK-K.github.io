@@ -71,3 +71,9 @@ utterances:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
